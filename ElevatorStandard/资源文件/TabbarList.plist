@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>任务</string>
+		<key>normal</key>
+		<string>Home.ico</string>
+		<key>selected</key>
+		<string>Home.ico_on</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>电梯</string>
+		<key>normal</key>
+		<string>Found.ico</string>
+		<key>selected</key>
+		<string>Found.ico_on</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>服务</string>
+		<key>normal</key>
+		<string></string>
+		<key>selected</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>统计</string>
+		<key>normal</key>
+		<string>Facsimile.ico</string>
+		<key>selected</key>
+		<string>Facsimile.ico_on</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>我的</string>
+		<key>normal</key>
+		<string>My.ico</string>
+		<key>selected</key>
+		<string>My.ico_on</string>
+	</dict>
+</array>
+</plist>

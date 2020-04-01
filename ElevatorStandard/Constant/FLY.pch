@@ -1,0 +1,32 @@
+//
+//  FLY.pch
+//  Elevator
+//
+//  Created by fly on 2018/11/8.
+//  Copyright © 2018年 fly. All rights reserved.
+//
+
+#ifndef FLY_pch
+#define FLY_pch
+
+#import "FLYMacros.h"
+#import "Masonry.h"
+#import "UIView+Frame.h"
+#import "UIColor+HEX.h"
+#import "FLYUtility.h"
+#import "APIConfig.h"
+#import "FLYUser.h"
+
+//typedef NS_ENUM(NSInteger, FLYTaskStatus)
+//{
+//    FLYTaskStatusNotStarted = 0,   //未开始
+//    FLYTaskStatusKnown,            //已知晓
+//    FLYTaskStatusArrive,           //已到达
+//    FLYTaskStatusWait,             //等待配件
+//    FLYTaskStatusSignin = 5,       //已签到
+//    FLYTaskStatusFinish = 14,      //已完成
+//};
+
+
+#endif
+
